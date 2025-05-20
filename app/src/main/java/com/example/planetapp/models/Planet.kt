@@ -24,7 +24,7 @@ val planetList = mutableStateListOf(
         distanceFromSun = "57.9 million km",
         diameter = "4,879 km",
         characteristics = "Smallest planet, no atmosphere, extreme temperatures.",
-        imageRes = R.drawable.mercurio
+        imageRes = R.drawable.bubble
     ),
     Planet(
         id = 2,
@@ -34,7 +34,7 @@ val planetList = mutableStateListOf(
         distanceFromSun = "108.2 million km",
         diameter = "12,104 km",
         characteristics = "Hottest planet, thick toxic atmosphere, similar size to Earth.",
-        imageRes = R.drawable.venus
+        imageRes = R.drawable.puppy
     ),
     Planet(
         id = 3,
@@ -48,13 +48,13 @@ val planetList = mutableStateListOf(
     ),
     Planet(
         id = 4,
-        name = "Mars",
+        name = "puppy",
         type = "Terrestrial",
         galaxy = "Milky Way",
         distanceFromSun = "227.9 million km",
         diameter = "6,779 km",
         characteristics = "Known as the Red Planet, has polar ice caps and signs of ancient water.",
-        imageRes = R.drawable.marte
+        imageRes = R.drawable.puppy
     ),
     Planet(
         id = 5,
